@@ -1,0 +1,27 @@
+.boxAvailGreen{
+    display:inline-block;
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: rgb(7, 146, 70);
+    padding: 25px;
+    
+}
+.boxAvailRed{
+    display:inline-block;
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: rgb(206, 7, 7);
+    padding: 25px;
+    
+}
+.frameBox{
+    margin: 10px;
+    display:inline-block;
+}
+.whiteBox{
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}

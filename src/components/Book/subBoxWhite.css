@@ -1,0 +1,15 @@
+.subBox-white{
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+    padding: 10px;
+    margin: 15px 10px;
+    overflow: hidden;
+}
+.text-detail{
+    margin: 10px;
+    font-size: 15px;
+}
+.all-text-detail{
+    margin: 10px;
+}

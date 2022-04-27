@@ -1,0 +1,21 @@
+.boxDetail-review {
+    border-radius: 15px;
+    border: 1px solid #000;
+    background-color: #D9ED92;
+    padding: 10px;
+    height: 80vh;
+    overflow: auto;
+    overflow-x: hidden;
+}
+.bord-Detail-left{
+    margin: 15px
+}
+.pic-slide{
+    border-radius: 10px;
+}
+.bord-time{
+    margin: 20px;
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+}

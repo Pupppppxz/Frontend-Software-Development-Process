@@ -1,0 +1,27 @@
+
+.bar{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.search{
+    /* padding-left: 300px; */
+    padding-right: 100px;
+    width: 50%;
+}
+.NavBar{
+    margin-bottom: 30px;
+}
+.icon-Nav{
+    width: 30px;
+    height: 30px; 
+    margin-right: 10px;
+    background-color:#55675670 ;
+    border-radius: 10px;
+}
+.icon-Nav:hover {
+    background-color: beige; 
+    cursor:pointer;
+    border-radius: 10px;
+
+}
+

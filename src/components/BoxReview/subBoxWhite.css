@@ -1,0 +1,15 @@
+.subBox{
+    border-radius: 15px;
+    background-color: rgb(232, 232, 232);
+    box-shadow: 2px 2px 8px 4px rgba(0, 0, 0, 0.1);
+
+    margin: 20px;
+    overflow: hidden;
+}
+.text-detail{
+    margin: 10px;
+    font-size: 15px;
+}
+.all-text-detail{
+    margin: 10px;
+}

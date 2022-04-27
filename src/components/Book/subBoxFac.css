@@ -1,0 +1,13 @@
+.box-white{
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.bord-all{
+    margin: 20px;
+}
+.b-book{
+    vertical-align: bottom;
+    margin-top: 50px;
+    
+}

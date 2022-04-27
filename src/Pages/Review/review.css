@@ -1,0 +1,84 @@
+body{
+    overflow-x: hidden;
+}
+body::-webkit-scrollbar{
+    width: 10px;
+}
+body::-webkit-scrollbar-track{
+    box-shadow: inset 0 0 5px rgb(0,0,0,0.3);
+    border-radius: 10px;
+}
+body::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: rgb(71, 64, 64);
+    outline: 2px solid rgb(249, 252, 254);  
+}
+body::-webkit-scrollbar-thumb:hover{
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    outline: 2px solid rgb(249, 252, 254);  
+}
+
+.bordReview{
+    border-radius: 15px;
+    border: 1px solid #000;
+    background-color: #D9ED92;
+    padding: 20px;
+    height: 80vh;
+    /* overflow: hidden; */
+    overflow-x: hidden;
+}
+.cardReview{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    border-color: aqua;
+    width: 80%;
+    margin-top: 10px;
+    overflow-x: hidden;
+}
+.bordListReview{
+    height: auto;
+    overflow: auto;
+    overflow-x: hidden;
+    margin-bottom: 30px;
+}
+.imgReview{
+    width: 100% !important;
+    height: 300px !important;
+    border: 3px solid #000;
+    border-radius: 30px;
+    object-fit: cover;
+}
+
+.slide-review {
+    padding: 0 20px;
+}
+
+.bord-time-review {
+    background-color: white;
+    padding: 20px 25px;
+    margin: 20px;
+    border-radius: 30px;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #000;
+}
+.review-hr {
+    width: 100px;
+}
+
+.button-in-review-page {
+    background-color: #168AAD;
+    color: white;
+    font-size: 1.3rem;
+    padding: 15px 30px;
+    border-radius: 20px;
+    border: 1px solid #000;
+    text-decoration: none;
+}
+
+.b-book-review {
+    padding-right: 30px;
+}

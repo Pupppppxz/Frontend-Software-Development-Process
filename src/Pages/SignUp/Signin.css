@@ -1,0 +1,125 @@
+.Rambla{
+    font-family: 'Rambla', sans-serif;
+}
+.box-bird{
+    background-color: rgb(88, 157, 134);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.img-bird{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    align-items: center;
+    display: inline-block;
+}
+.signup-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+}
+.box-right{
+    padding-top: 50px;
+    margin-left: 20px;
+}
+.second-para{
+    font-size: 12px;
+    color: rgb(54, 54, 139);
+    text-align: center;
+}
+.box-from{
+    margin: 20px;
+    /* padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px; */
+}
+.button-signup{
+    font-family: 'Rambla', sans-serif;
+    background-color: #dee0def0; 
+    border: none;
+    color: rgb(11, 175, 153);
+    border-radius: 15px;
+    padding: 9px 75px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button-signin:hover {
+    background-color: #55675670;
+    color: white;
+}
+.button-login2{
+    font-family: 'Rambla', sans-serif;
+    align-items: center;
+    background-color: #269077ac; 
+    border: none;
+    color: rgb(55, 59, 59);
+    border-radius: 15px;
+    padding: 5px 57px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    /* margin-left: auto; */
+    margin-right: auto;
+}
+.button-login2:hover {
+    background-color: #55675670; 
+    color: white;
+}
+.texLeft{
+    font-family: 'Rambla', sans-serif;
+    text-align: center;
+    font-size:15px ;
+    color: aliceblue;
+}
+.titleNew{
+    font-family: 'Rambla', sans-serif;
+    text-align: center;
+    font-size:30px ;
+    color: rgb(22, 82, 57);
+}
+
+/* @media screen and (max-width: 768px ) {
+    .box-bird{
+        background-color: rgb(88, 157, 134);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: 150px;
+        width: 100%;
+        position: relative;
+    }
+    .img-bird{
+        width: 112px;
+        display: block;
+        position: absolute;
+        top: 25px;
+        left: -110px;
+    }
+    .button-signup{
+        font-family: 'Rambla', sans-serif;
+        background-color: #dee0def0; 
+        border: none;
+        color: rgb(11, 175, 153);
+        border-radius: 15px;
+        padding: 9px 75px;
+        text-align: center;
+        text-decoration: none;
+        display: block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+        position: absolute;
+        right: 5px;
+    }
+} */

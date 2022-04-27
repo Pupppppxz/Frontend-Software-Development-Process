@@ -1,0 +1,26 @@
+.box{
+    /* height: 100px; */
+    overflow: hidden;
+    font-size: 18px;
+    /* overflow-x: hidden; */
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.box::-webkit-scrollbar{
+    width: 7px;
+    
+}
+.box::-webkit-scrollbar-track{
+    box-shadow: inset 0 0 5px rgb(0,0,0,0.3);
+    border-radius: 10px;
+}
+.box::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: rgba(152, 152, 152, 0.208);
+    outline: 1px solid rgb(249, 252, 254);  
+}
+.box::-webkit-scrollbar-thumb:hover{
+    border-radius: 10px;
+    background-color: rgb(116, 116, 116);
+    outline: 2px solid rgb(249, 252, 254);  
+}

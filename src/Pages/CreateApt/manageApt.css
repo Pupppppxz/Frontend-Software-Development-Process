@@ -1,0 +1,92 @@
+.bordManageApt-test{
+    border-radius: 15px;
+    background-color: #F0D7FF;
+    padding: 20px;
+    height: 80vh;
+    overflow-x: hidden;
+}
+.bordManageApt::-webkit-scrollbar{
+    width: 7px;
+}
+.bordManageApt::-webkit-scrollbar-track{
+    box-shadow: inset 0 0 5px rgb(0,0,0,0.3);
+    border-radius: 7px;
+    margin: 20px;
+}
+.bordManageApt::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: rgba(71, 64, 64, 0.178);
+    outline: 2px solid rgb(249, 252, 254);  
+}
+.bordManageApt::-webkit-scrollbar-thumb:hover{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.178);
+    outline: 2px solid rgb(249, 252, 254);  
+   
+}
+
+.detailBordManageApt{
+    height: 60vh;
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+
+.detailBordManageApt::-webkit-scrollbar{
+    width: 7px;
+}
+.detailBordManageApt::-webkit-scrollbar-track{
+    box-shadow: inset 0 0 5px rgb(0,0,0,0.3);
+    border-radius: 7px;
+}
+.detailBordManageApt::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: rgba(71, 64, 64, 0.425);
+    outline: 2px solid rgb(249, 252, 254);  
+}
+.detailBordManageApt::-webkit-scrollbar-thumb:hover{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.384);
+    outline: 2px solid rgb(249, 252, 254);  
+   
+}
+.imgAptManage{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+}
+.cardTypeManage{
+    padding: 10px;
+    margin: 10px;
+    height: 100px;
+    background-color: rgba(164, 168, 162, 0.534);
+    border-radius: 7px;
+    box-shadow: 8px 3px 14px 9px rgba(143, 138, 138, 0.1);
+}
+.cardTypeManage:hover{
+    box-shadow: 8px 3px 14px 9px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.boxTypeManage{
+    overflow: auto;
+    height: 250px;
+}
+.boxTypeManage::-webkit-scrollbar{
+    width: 7px;
+}
+.boxTypeManage::-webkit-scrollbar-track{
+    box-shadow: inset 0 0 5px rgb(0,0,0,0.3);
+    border-radius: 7px;
+}
+.boxTypeManage::-webkit-scrollbar-thumb{
+    border-radius: 10px;
+    background-color: rgba(71, 64, 64, 0.178);
+    outline: 2px solid rgb(249, 252, 254);  
+}
+.boxTypeManage::-webkit-scrollbar-thumb:hover{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.178);
+    outline: 2px solid rgb(249, 252, 254);  
+   
+}

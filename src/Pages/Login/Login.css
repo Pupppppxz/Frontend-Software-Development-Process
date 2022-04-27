@@ -1,0 +1,127 @@
+.Rambla{
+    font-family: 'Rambla', sans-serif;
+}
+.box-leftLogin{
+    background-color: rgb(88, 157, 134);
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    height: 100vh;
+    gap: 50px;
+}
+.login-landing {
+    height: 100vh;
+}
+.img-leftLogin{
+    width: 100%;
+    max-width: 400px;
+    height:auto;
+    align-items: center;
+    display: inline-block;
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+.logo:hover {
+    background-color: #55675670; /* Green */
+}
+.box-rightLogin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+    gap: 30px;
+}
+.second-para{
+    font-size: 12px;
+    color: rgb(54, 54, 139);
+    text-align: center;
+}
+.box-fromLogin{
+    margin: 20px;
+}
+.button-login-left {
+    background-color: #dee0def0; 
+    border: none;
+    color: rgb(11, 175, 153);
+    display: flex;
+    justify-content: center;
+    padding: 5px 60px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    width: 50%;
+}
+.button-signinLogin{
+    background-color: #dee0def0; 
+    border: none;
+    color: rgb(11, 175, 153);
+    font-family: 'Rambla', sans-serif;
+    align-items: center;
+    border-radius: 15px;
+    padding: 5px 57px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button-signin:hover {
+    background-color: #55675670;
+    color: white;
+}
+.button-login{
+    font-family: 'Rambla', sans-serif;
+    align-items: center;
+    background-color: #269077ac; 
+    border: none;
+    color: rgb(55, 59, 59);
+    border-radius: 15px;
+    padding: 5px 57px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button-login:hover {
+    background-color: #55675670; 
+    color: white;
+}
+.texLeft{
+    font-family: 'Rambla', sans-serif;
+    text-align: center;
+    font-size:15px ;
+    color: aliceblue;
+}
+.titleNew{
+    font-family: 'Rambla', sans-serif;
+    text-align: center;
+    font-size:30px ;
+    color: rgb(22, 82, 57);
+}
+.noti-red{
+    font-family: 'Rambla', sans-serif;
+    color: red;
+}
+
+.login-bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+}
+
+.login-bottom a {
+    text-decoration: none;
+} 

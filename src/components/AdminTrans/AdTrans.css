@@ -1,0 +1,8 @@
+.AdTrans-card {
+    background-color: white;
+    box-shadow: 8px 3px 14px 9px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Rambla', sans-serif;
+}

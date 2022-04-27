@@ -1,0 +1,18 @@
+.bordAvail{
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    height: 650px;
+    box-shadow: 8px 3px 14px 9px rgba(0, 0, 0, 0.1);
+    
+}
+.bordBox{
+    margin: 20px;
+    overflow: auto;
+    overflow-x: hidden;
+    height: 400px;
+}
+.addFrom{
+    display:inline-block;
+}

@@ -1,0 +1,33 @@
+.box-form-SignManage{
+    padding: 20px;
+}
+.box-detail-SigManage{
+    padding: 20px;
+    height: 600px;
+    overflow: auto;
+    overflow-x: hidden;
+    margin: 20px;
+}
+.picOwnerSignIn{
+    height: 150px;
+    width: 150px;
+}
+.SignManage{
+    border-radius: 15px;
+    border: 1px solid #000;
+    background-color: #D9ED92;
+    padding: 10px;
+    height: 82vh;
+    overflow: hidden;
+    overflow-x: hidden;
+}
+
+.SignManage-before {
+    border-radius: 15px;
+    border: 1px solid #000;
+    background-color: #D9ED92;
+    padding: 10px;
+    height: 15vh;
+    overflow: hidden;
+    overflow-x: hidden;
+}

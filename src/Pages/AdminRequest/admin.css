@@ -1,0 +1,22 @@
+.adminContainer {
+    background-color: white;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    height: 700px;
+    box-shadow: 8px 3px 14px 9px rgba(0, 0, 0, 0.1);
+    overflow: auto;
+    overflow-x: hidden;
+}
+
+.listOwner {
+    background-color: white;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 20px;
+    height: 400px;
+    box-shadow: 8px 3px 14px 9px rgba(0, 0, 0, 0.1);
+    overflow: auto;
+    overflow-x: hidden;
+    font-family: 'Rambla', sans-serif;
+}

@@ -1,0 +1,24 @@
+.box-Detail{
+    border-radius: 15px;
+    border: 1px solid #000;
+    background-color: #D9ED92;
+    padding: 10px;
+    height: 82vh;
+    overflow: hidden;
+    overflow-x: hidden;
+}
+.bord-Detail-left{
+    margin: 20px
+}
+.pic-slide{
+    border-radius: 10px;
+}
+.bord-time{
+    margin-top: 30px;
+    background: white;
+    border-radius: 30px;
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
